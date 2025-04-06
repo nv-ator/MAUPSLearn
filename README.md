@@ -47,7 +47,7 @@ npx tsx server/stop-tunnel.ts
 - Frontend: React, TypeScript, TailwindCSS, Shadcn UI
 - Backend: Express, Node.js
 - Database: PostgreSQL with Drizzle ORM
-- APIs: OpenAI API (for quiz generation), YouTube API (for video content)
+- APIs: Gamini API (for quiz generation), YouTube API (for video content)
 ### Tunnel to External URL
 
 You can create a tunnel to an external URL using the following command:
